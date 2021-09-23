@@ -1,0 +1,2 @@
+zip backup.zip -qr ~/workspace/
+echo "Backup realizado com sucesso"
